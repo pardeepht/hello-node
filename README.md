@@ -1,4 +1,4 @@
-# Express Node App
+# Hello Node App
 
 Boilerplate express generated app with a simple test, used for demonstration of CI/CD features in Heroku.
 
