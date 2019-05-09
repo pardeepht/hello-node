@@ -3,5 +3,8 @@
     "description": "This app does one little thing, and does it well.",
     "scripts": {
       "test": "npm test"
-    }
+    },
+    "addons":[
+        "heroku-postgresql:hobby-basic"
+    ]
 }
